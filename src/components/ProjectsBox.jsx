@@ -8,6 +8,7 @@ const ProjectBox = () => {
           <div className=" text-sm pl-5 ">
             <a
               href="https://todo-mu-beige-45.vercel.app/"
+              target="_blank"
               className="text-primary"
             >
               -Todo-List
