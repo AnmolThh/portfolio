@@ -6,7 +6,10 @@ const ProjectBox = () => {
         <div className="py-3">
           <h2 className="text-sm mb-2">Completed--</h2>
           <div className=" text-sm pl-5 ">
-            <a href="" className="text-primary">
+            <a
+              href="https://todo-mu-beige-45.vercel.app/"
+              className="text-primary"
+            >
               -Todo-List
             </a>
           </div>
